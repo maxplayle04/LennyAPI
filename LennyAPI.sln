@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LennyAPI", "LennyAPI\LennyAPI.csproj", "{2D101CE9-8C3B-4610-9F54-DD9C63641F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LennyTest", "LennyTest\LennyTest.csproj", "{A2337119-A118-4124-8C62-1E8D09BCAB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D101CE9-8C3B-4610-9F54-DD9C63641F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D101CE9-8C3B-4610-9F54-DD9C63641F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D101CE9-8C3B-4610-9F54-DD9C63641F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D101CE9-8C3B-4610-9F54-DD9C63641F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2337119-A118-4124-8C62-1E8D09BCAB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2337119-A118-4124-8C62-1E8D09BCAB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2337119-A118-4124-8C62-1E8D09BCAB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2337119-A118-4124-8C62-1E8D09BCAB82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA92C61-8CFA-43C1-AE37-D8CDDC406C60}
+	EndGlobalSection
+EndGlobal
