@@ -1,0 +1,12 @@
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\bin\Debug\net5.0\LennyAPI.deps.json
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\bin\Debug\net5.0\LennyAPI.dll
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\bin\Debug\net5.0\ref\LennyAPI.dll
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\bin\Debug\net5.0\LennyAPI.pdb
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\obj\Debug\net5.0\LennyAPI.csprojAssemblyReference.cache
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\obj\Debug\net5.0\LennyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\obj\Debug\net5.0\LennyAPI.AssemblyInfoInputs.cache
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\obj\Debug\net5.0\LennyAPI.AssemblyInfo.cs
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\obj\Debug\net5.0\LennyAPI.csproj.CoreCompileInputs.cache
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\obj\Debug\net5.0\LennyAPI.dll
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\obj\Debug\net5.0\ref\LennyAPI.dll
+C:\Users\maxpl\source\repos\LennyAPI\LennyAPI\obj\Debug\net5.0\LennyAPI.pdb

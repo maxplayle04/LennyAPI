@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LennyTest/1.0.0": {
+        "dependencies": {
+          "LennyAPI": "1.0.0"
+        },
+        "runtime": {
+          "LennyTest.dll": {}
+        }
+      },
+      "LennyAPI/1.0.0": {
+        "runtime": {
+          "LennyAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LennyTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LennyAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
